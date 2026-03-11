@@ -212,18 +212,19 @@
 
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 |  |
-| 트랙 |  |
+| 프로젝트명 | AI Tasker |
+| 트랙 | 산학 |
 | 팀명 | 212223 |
-| 팀구성 |  |
+| 팀구성 | 고윤진(2176018), 김나현(2276040), 이유진(2376218) |
 | 팀지도교수 |  |
-| 무엇을 만들고자 하는가 | 시간관리어플 |
-| 고객 (누구를 위해) | 학생 및 직장인 |
-| Pain Point (해결할 문제) | 시간 관리의 효율성 및 허점 극복 |
-| 사용 기술 | flutter, firebase, firestorm |
-| 기대 효과 | 업무 및 시간 관리 효율 |
-| Team Ground Rule |  |
-| 최종수정일 |  |
+| 무엇을 만들고자 하는가 | 사용자가 프롬프트를 입력하면 각 AI 모델(GPT-4, Gemini, Claude 등)의 최적화된 프롬프트를 추천 후 그에 따른 예상 비용을 실시간으로 계산하고 비교하는 웹 서비스 |
+| 고객 (누구를 위해) | Ai api를 사용하는 학생 및 개발자, 스타트업 등 비용에 민감한 사용자 |
+| Pain Point (해결할 문제) | AI 프롬프트 작성 미숙으로 인한 과다한 비용 청구 |
+| 사용 기술 | Tailwind, Next.js, FastAPI, tiktoken,LangChain,LLMLingua,Firebase Firestore |
+| 기대 효과 | AI 사용성 계선 및 비용 감소 |
+| GitHub Repo | [https://github.com/kimnnnn4215g/Ewha-2026-Spring](https://github.com/kimnnnn4215g/Ewha-2026-Spring) |
+| Team Ground Rule | [Team Ground Rule](Team_Ground_Rule.md) |
+| 최종수정일 | 03.10 09시 50분 |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
@@ -395,10 +396,10 @@
 
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 |  |
-| 트랙 |  |
+| 프로젝트명 | AI 기반 오디오 도슨트 자동 제작 서비스 |
+| 트랙 | 연구 |
 | 팀명 | 디바트(deep-art) |
-| 팀구성 |  |
+| 팀구성 | 최현서, 이나겸, 김나경 |
 | 팀지도교수 |  |
 | 무엇을 만들고자 하는가 | 전시 정보를 입력하면 AI가 도슨트 설명을 생성하고 음성으로 변환해주는 AI 기반 오디오 도슨트 자동 제작 서비스 |
 | 고객 (누구를 위해) | 전시 기획자 및 전시 콘텐츠 제작자 |
@@ -406,8 +407,8 @@
 | 사용 기술 | LLM 기반 콘텐츠 생성, RAG 기반 전시 정보 활용, 음성 합성(TTS) 기술 |
 | 기대 효과 | 전시 기획자가 전시 주제, 전시물 설명, 요청 사항 등을 입력하면 AI가 도슨트 설명을 생성하고 이를 음성으로 변환하여 오디오 도슨트로 활용 가능한 음성 파일을 자동으로 제작할 수 있다. 이를 통해 오디오 도슨트 제작 비용과 시간을 크게 줄이고, 더 많은 전시에서 오디오 도슨트를 활용할 수 있다. |
 | GitHub Repo | [https://github.com/ewha-deep-art/deep-art](https://github.com/ewha-deep-art/deep-art) |
-| Team Ground Rule |  |
-| 최종수정일 |  |
+| Team Ground Rule | [https://github.com/ewha-deep-art/deep-art/blob/main/Team_Ground_Rule.md](https://github.com/ewha-deep-art/deep-art/blob/main/Team_Ground_Rule.md) |
+| 최종수정일 | 2026.03.10 |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
